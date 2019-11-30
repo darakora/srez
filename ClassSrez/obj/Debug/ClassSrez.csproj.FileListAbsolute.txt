@@ -1,0 +1,6 @@
+C:\Users\Dasha\source\repos\ClassSrez\ClassSrez\obj\Debug\ClassSrez.csprojAssemblyReference.cache
+C:\Users\Dasha\source\repos\ClassSrez\ClassSrez\bin\Debug\ClassSrez.exe.config
+C:\Users\Dasha\source\repos\ClassSrez\ClassSrez\bin\Debug\ClassSrez.exe
+C:\Users\Dasha\source\repos\ClassSrez\ClassSrez\bin\Debug\ClassSrez.pdb
+C:\Users\Dasha\source\repos\ClassSrez\ClassSrez\obj\Debug\ClassSrez.exe
+C:\Users\Dasha\source\repos\ClassSrez\ClassSrez\obj\Debug\ClassSrez.pdb
